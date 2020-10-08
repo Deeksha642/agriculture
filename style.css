@@ -1,0 +1,70 @@
+
+.logo{
+    float: left;
+    height: 70px;
+}
+.content{
+    min-height: 660px;
+}
+.pure{
+    float: right;
+    padding:10px  50px;
+    height: 150px;
+}
+.p-bold{
+    font-weight: 100;
+    font-size: 40px;
+}
+.p-blue{
+    font-weight: bold;
+}
+.p-pink{
+    font-weight: bold;
+    font-family: forte;
+}
+.img-phone{
+    height: 220px;
+    margin: 0px auto;
+  
+}
+
+.panel-default-setting{
+    border: 1px solid #101010;
+}
+
+.panel-default-setting  > .panel-heading
+ {
+    color: #FFF;
+    background-color: #101010;
+}
+.btn-setting{
+    background-color: #000;
+    color: #FFF;
+    transition: 0.5s ease-in;
+}
+
+.btn-setting:hover{
+    background-color:#43053C;
+    color: #FFF;
+}
+.about-img{
+    margin: 0px auto;
+    float:left;
+}
+
+.box-padding-10{
+    padding-top: 10px;
+}
+.box-padding-left{
+    padding-top: 10px;
+    padding-right: 0px;
+   
+}
+
+footer{
+     padding-top: 20px;
+    color: #101010;
+    width: 100%;
+    text-align: center;
+    
+}
